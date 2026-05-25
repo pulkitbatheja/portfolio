@@ -1,0 +1,13 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Pulkit Batheja's portfolio with Apify integration",
+  "main": "apify-integration.js",
+  "scripts": {
+    "start": "node apify-integration.js"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.3",
+    "dotenv": "^16.4.5"
+  }
+}
